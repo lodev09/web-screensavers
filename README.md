@@ -6,25 +6,31 @@
   <img src="flat-surface-shader.gif" height="150px">
 </h1>
 
+A list of ready-to-use web screensavers.
+
 ## Usage
 How to install screensaver as web view? First, you need to secure the url. You can fork and host this repository to your own web server OR copy gh-pages url from the sources below.
 
-### Matrix
+### Screensavers
+
+#### Matrix
 By [Ebram Marzouk](https://codepen.io/P3R0) - [source](https://codepen.io/P3R0/pen/MwgoKv).<br>
 [https://lodev09.github.com/web-screensavers/matrix](https://lodev09.github.com/web-screensavers/matrix)
 
-### Jellyfish 
+#### Jellyfish 
 By [@arodic](https://github.com/arodic) - [source](https://github.com/arodic/jellyfish).<br>
 [https://lodev09.github.com/web-screensavers/jellyfish](https://lodev09.github.com/web-screensavers/jellyfish)
 
-### Flat Surface Shader
+#### Flat Surface Shader
 By [@wagerfield](https://github.com/wagerfield) - [source](https://github.com/wagerfield/flat-surface-shader).<br>
 [https://lodev09.github.com/web-screensavers/flat-surface-shader](https://lodev09.github.com/web-screensavers/flat-surface-shader)
 
-### macOS
+### Installation
+
+#### macOS
 Get/install **WebViewScreenSaver** [from here](https://github.com/liquidx/webviewscreensaver) and enter the url. For macOS Catalina, use [this fork](https://github.com/agologan/webviewscreensaver).
 
-### Windows
+#### Windows
 Use the url and follow installation [from here](https://github.com/cwc/web-page-screensaver).
 
 ## Enjoy!
