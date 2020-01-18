@@ -1,5 +1,6 @@
-# Web Screensavers
-A list of ready-to-use web screensavers.
+# About
+A list of ready-to-use web screensavers -- modified for your pleasure :)<br>
+_These are work of awesome people in the internet. Please check out their works by clicking their name._
 
 ## Usage
 How to install screensaver as web view? First, you need to secure the url. You can fork and host this repository to your own web server OR copy gh-pages url from the sources below.
